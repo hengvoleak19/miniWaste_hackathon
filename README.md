@@ -1,0 +1,1 @@
+# miniWaste_hackathon
