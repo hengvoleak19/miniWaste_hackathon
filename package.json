@@ -19,5 +19,8 @@
   "homepage": "https://github.com/hengvoleak19/miniWaste_hackathon#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
